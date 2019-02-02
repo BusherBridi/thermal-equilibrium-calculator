@@ -1,0 +1,1 @@
+c++ program that calculates equilbrium temperature of a single internal meshpoint based on boundry temperature values of a body in thermal equilbrium using the random walk property, a type of monte carlo alogrithim. User defines which pointusing a coordinate system and number of walks to perform. Boundry values must be inputed manually by editing the actual .cpp file
